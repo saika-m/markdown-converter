@@ -6,14 +6,14 @@
 
 1.
     ```
-    git clone
+    git clone https://github.com/saika-m/markdown-converter.git
     ```
 2.
     ```
-    cd
+    cd markdown-converter
     ```
 3.
-    Put the LaTeX in pre.md
+    Put the LaTeX in ```pre.md```
 
 4.
     Then 
